@@ -244,7 +244,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "can be used in syntax: $itemname [material,quality] {quantity} ~ $duster [wolfskin, good] 1",
+    "description": "can be used in syntax: $itemname [material,quality] {quantity} ~ $duster [wolfskin good] 1",
     "name": "Buy",
     "usage": "!buy",
     "userLevel": "Anyone",
