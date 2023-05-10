@@ -12,9 +12,15 @@
     "version": "1.5.0.0"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "10.0.1"
+  },
+  {
+    "author": "Murmur",
+    "name": "Incident Disabler",
+    "steamId": "2347633285",
     "version": "1.0.0.0"
   },
   {
@@ -48,6 +54,30 @@
     "version": "1.0.5.0"
   },
   {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Expanded - Ideology Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Expanded - Royalty Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "zzz",
+    "name": "Invisible Conduit",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Roolo and Owlchemist",
     "name": "Giddy-Up 2",
     "steamId": "2934245647",
@@ -58,12 +88,6 @@
     "name": "Vanilla Nutrient Paste Expanded",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "10.0.1"
   },
   {
     "author": "EdB",
@@ -118,12 +142,6 @@
     "name": "Allow Tool",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Kikohi",
-    "name": "Better ground-penetrating scanner",
-    "steamId": "2809972387",
-    "version": "1.0.0.0"
   },
   {
     "author": "TimmyLiang",
@@ -286,5 +304,11 @@
     "name": "Planning Extended",
     "steamId": "2877392159",
     "version": "1.8.0"
+  },
+  {
+    "author": "Kikohi",
+    "name": "Better ground-penetrating scanner",
+    "steamId": "2809972387",
+    "version": "1.0.0.0"
   }
 ]
