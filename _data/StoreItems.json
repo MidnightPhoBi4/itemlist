@@ -74,73 +74,73 @@
 	},
 	{
 		"abr": "archotecheye",
-		"price": 4667,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotecharm",
-		"price": 4667,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotechleg",
-		"price": 4667,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechLeg"
 	},
 	{
 		"abr": "bioniceye",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicEye"
 	},
 	{
 		"abr": "bionicarm",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicArm"
 	},
 	{
 		"abr": "bionicleg",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicLeg"
 	},
 	{
 		"abr": "bionicspine",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicSpine"
 	},
 	{
 		"abr": "bionicheart",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicHeart"
 	},
 	{
 		"abr": "bionicstomach",
-		"price": 1308,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicStomach"
 	},
 	{
 		"abr": "deathacidifier",
-		"price": 667,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "DeathAcidifier"
 	},
 	{
 		"abr": "bionicear",
-		"price": 1308,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicEar"
 	},
 	{
 		"abr": "bionictongue",
-		"price": 942,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicTongue"
 	},
@@ -194,19 +194,19 @@
 	},
 	{
 		"abr": "powerclaw",
-		"price": 642,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "PowerClaw"
 	},
 	{
 		"abr": "joywire",
-		"price": 367,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "Joywire"
 	},
 	{
 		"abr": "painstopper",
-		"price": 367,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "Painstopper"
 	},
@@ -2054,97 +2054,97 @@
 	},
 	{
 		"abr": "neurocalculator",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "Neurocalculator"
 	},
 	{
 		"abr": "learningassistant",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "LearningAssistant"
 	},
 	{
 		"abr": "gastro-analyzer",
-		"price": 1383,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "GastroAnalyzer"
 	},
 	{
 		"abr": "immunoenhancer",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "Immunoenhancer"
 	},
 	{
 		"abr": "coagulator",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "Coagulator"
 	},
 	{
 		"abr": "healingenhancer",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "HealingEnhancer"
 	},
 	{
 		"abr": "toughskingland",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "ToughskinGland"
 	},
 	{
 		"abr": "armorskingland",
-		"price": 2458,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "ArmorskinGland"
 	},
 	{
 		"abr": "stoneskingland",
-		"price": 3200,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "StoneskinGland"
 	},
 	{
 		"abr": "aestheticshaper",
-		"price": 1383,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "AestheticShaper"
 	},
 	{
 		"abr": "aestheticnose",
-		"price": 975,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "AestheticNose"
 	},
 	{
 		"abr": "loveenhancer",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "LoveEnhancer"
 	},
 	{
 		"abr": "sterilizingstomach",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "DetoxifierStomach"
 	},
 	{
 		"abr": "reprocessorstomach",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "ReprocessorStomach"
 	},
 	{
 		"abr": "nuclearstomach",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "NuclearStomach"
 	},
 	{
 		"abr": "circadianassistant",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "CircadianAssistant"
 	},
@@ -2156,49 +2156,49 @@
 	},
 	{
 		"abr": "mindscrew",
-		"price": 350,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "Mindscrew"
 	},
 	{
 		"abr": "drillarm",
-		"price": 708,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "DrillArm"
 	},
 	{
 		"abr": "fieldhand",
-		"price": 708,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "FieldHand"
 	},
 	{
 		"abr": "handtalon",
-		"price": 592,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "HandTalon"
 	},
 	{
 		"abr": "elbowblade",
-		"price": 592,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "ElbowBlade"
 	},
 	{
 		"abr": "kneespike",
-		"price": 592,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "KneeSpike"
 	},
 	{
 		"abr": "venomfangs",
-		"price": 592,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "VenomFangs"
 	},
 	{
 		"abr": "venomtalon",
-		"price": 592,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "VenomTalon"
 	},
@@ -2876,13 +2876,13 @@
 	},
 	{
 		"abr": "detoxifierlung",
-		"price": 1542,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "DetoxifierLung"
 	},
 	{
 		"abr": "detoxifierkidney",
-		"price": 1800,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "DetoxifierKidney"
 	},
@@ -3044,7 +3044,7 @@
 	},
 	{
 		"abr": "toxipotatoes",
-		"price": 1,
+		"price": -10,
 		"category": "Vegetarian",
 		"defname": "RawToxipotato"
 	},
@@ -5315,7 +5315,481 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Red_Dragon"
+	},
+	{
+		"abr": "dragonnest",
+		"price": 44,
+		"category": "Furniture",
+		"defname": "DragonNest"
+	},
+	{
+		"abr": "dragonpillow",
+		"price": 206,
+		"category": "Furniture",
+		"defname": "DragonPillow"
+	},
+	{
+		"abr": "dragonstatueritual",
+		"price": 1508,
+		"category": "Art",
+		"defname": "DD_DragonStatueRitual_Grand"
+	},
+	{
+		"abr": "dragonstatueritual",
+		"price": 1042,
+		"category": "Art",
+		"defname": "DD_DragonStatueRitual_Large"
+	},
+	{
+		"abr": "dragonstatueritual",
+		"price": 833,
+		"category": "Art",
+		"defname": "DD_DragonStatueRitual_Small"
+	},
+	{
+		"abr": "dragonfirelauncher",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "DD_Gun_DragonfireLauncher"
+	},
+	{
+		"abr": "dragon'sblood",
+		"price": 97,
+		"category": "Drugs",
+		"defname": "DragonsBlood"
+	},
+	{
+		"abr": "focusingtome",
+		"price": 2667,
+		"category": "Melee weapons",
+		"defname": "DDMeleeWeapon_FocusingTome"
+	},
+	{
+		"abr": "golddragon",
+		"price": 13167,
+		"category": "Animals",
+		"defname": "Gold_Dragon"
+	},
+	{
+		"abr": "golddragonegg(fert.)",
+		"price": 6833,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggGoldDragonFertilized"
+	},
+	{
+		"abr": "greendragon",
+		"price": 11000,
+		"category": "Animals",
+		"defname": "Green_Dragon"
+	},
+	{
+		"abr": "greendragonegg(fert.)",
+		"price": 4167,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggGreenDragonFertilized"
+	},
+	{
+		"abr": "harddragonscale",
+		"price": 6,
+		"category": "Raw resources",
+		"defname": "HardScale"
+	},
+	{
+		"abr": "hornedlance",
+		"price": 3833,
+		"category": "Melee weapons",
+		"defname": "DD_MeleeWeapon_HornedLance"
+	},
+	{
+		"abr": "jadedragon",
+		"price": 13167,
+		"category": "Animals",
+		"defname": "Jade_Dragon"
+	},
+	{
+		"abr": "jadedragonegg(fert.)",
+		"price": 6833,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggJadeDragonFertilized"
+	},
+	{
+		"abr": "jewelberries",
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "JewelBerries"
+	},
+	{
+		"abr": "jeweledrhizome",
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "Jeweledrhizomeraw"
+	},
+	{
+		"abr": "air-conindoorunit",
+		"price": 82,
+		"category": "Hygiene",
+		"defname": "AirconIndoorUnit"
+	},
+	{
+		"abr": "air-conoutdoorunit",
+		"price": 458,
+		"category": "Hygiene",
+		"defname": "AirConOutdoorUnit"
+	},
+	{
+		"abr": "basin",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "BasinStuff"
+	},
+	{
+		"abr": "bathmat",
+		"price": 71,
+		"category": "Furniture",
+		"defname": "BathMat"
+	},
+	{
+		"abr": "bathtub",
+		"price": 124,
+		"category": "Hygiene",
+		"defname": "BathtubStuff"
+	},
+	{
+		"abr": "bionicbladder",
+		"price": -10,
+		"category": "Bionic",
+		"defname": "BionicBladder"
+	},
+	{
+		"abr": "biosolids",
+		"price": -10,
+		"category": "Waste",
+		"defname": "Biosolids"
+	},
+	{
+		"abr": "biosolidscomposter",
+		"price": 146,
+		"category": "Hygiene",
+		"defname": "BiosolidsComposter"
+	},
+	{
+		"abr": "ceilingfan1x1",
+		"price": 184,
+		"category": "Hygiene",
+		"defname": "CeilingFanS"
+	},
+	{
+		"abr": "ceilingfan2x2",
+		"price": 184,
+		"category": "Hygiene",
+		"defname": "CeilingFan"
+	},
+	{
+		"abr": "electricboiler",
+		"price": 425,
+		"category": "Hygiene",
+		"defname": "ElectricBoiler"
+	},
+	{
+		"abr": "electricpump",
+		"price": 316,
+		"category": "Hygiene",
+		"defname": "ElectricPump"
+	},
+	{
+		"abr": "electricsaunaheater",
+		"price": 725,
+		"category": "Hygiene",
+		"defname": "DBHSaunaHeaterElec"
+	},
+	{
+		"abr": "firesprinkler",
+		"price": 104,
+		"category": "Hygiene",
+		"defname": "FireSprinkler"
+	},
+	{
+		"abr": "fountain",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "Fountain"
+	},
+	{
+		"abr": "fueledsaunaheater",
+		"price": 675,
+		"category": "Hygiene",
+		"defname": "DBHSaunaHeaterLog"
+	},
+	{
+		"abr": "gasboiler",
+		"price": 425,
+		"category": "Hygiene",
+		"defname": "GasBoiler"
+	},
+	{
+		"abr": "hottub",
+		"price": 800,
+		"category": "Hygiene",
+		"defname": "HotTub"
+	},
+	{
+		"abr": "hotwatertank",
+		"price": 245,
+		"category": "Hygiene",
+		"defname": "HotWaterTank"
+	},
+	{
+		"abr": "hygieneenhancer",
+		"price": -10,
+		"category": "Bionic",
+		"defname": "HygieneEnhancer"
+	},
+	{
+		"abr": "irrigationsprinkler",
+		"price": 102,
+		"category": "Hygiene",
+		"defname": "IrrigationSprinkler"
+	},
+	{
+		"abr": "kitchensink",
+		"price": 167,
+		"category": "Hygiene",
+		"defname": "KitchenSink"
+	},
+	{
+		"abr": "largeradiator",
+		"price": 252,
+		"category": "Hygiene",
+		"defname": "RadiatorLarge"
+	},
+	{
+		"abr": "latrine",
+		"price": 55,
+		"category": "Hygiene",
+		"defname": "PitLatrine"
+	},
+	{
+		"abr": "litterbox",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "LitterBox"
+	},
+	{
+		"abr": "logboiler",
+		"price": 642,
+		"category": "Hygiene",
+		"defname": "LogBoiler"
+	},
+	{
+		"abr": "matinghorn",
+		"price": 3333,
+		"category": "Artifacts",
+		"defname": "MatingHorn"
+	},
+	{
+		"abr": "moonstone",
+		"price": 47,
+		"category": "Drugs",
+		"defname": "MoonStone"
+	},
+	{
+		"abr": "plumbingvalve",
+		"price": 50,
+		"category": "Hygiene",
+		"defname": "plumbingValve"
+	},
+	{
+		"abr": "powershower",
+		"price": 170,
+		"category": "Hygiene",
+		"defname": "ShowerAdvStuff"
+	},
+	{
+		"abr": "psychicaginglance",
+		"price": 3083,
+		"category": "Artifacts",
+		"defname": "PubertyLance"
+	},
+	{
+		"abr": "purpledragon",
+		"price": 11000,
+		"category": "Animals",
+		"defname": "Purple_Dragon"
+	},
+	{
+		"abr": "purpledragonegg(fert.)",
+		"price": 4167,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggPurpleDragonFertilized"
+	},
+	{
+		"abr": "radiator",
+		"price": 85,
+		"category": "Hygiene",
+		"defname": "RadiatorStuffed"
+	},
+	{
+		"abr": "raredragonleather",
+		"price": 38,
+		"category": "Leathers",
+		"defname": "Rare_Dragon_Leather"
+	},
+	{
+		"abr": "reddragon",
+		"price": 11000,
+		"category": "Animals",
+		"defname": "Red_Dragon"
+	},
+	{
+		"abr": "reddragonegg(fert.)",
+		"price": 5333,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggRedDragonFertilized"
+	},
+	{
+		"abr": "saunaseating",
+		"price": 9,
+		"category": "Furniture",
+		"defname": "DBHSaunaSeating"
+	},
+	{
+		"abr": "scalehelmet",
+		"price": 189,
+		"category": "Headgear",
+		"defname": "DD_Apparel_ScaleHelm"
+	},
+	{
+		"abr": "scalemail",
+		"price": 675,
+		"category": "Armor",
+		"defname": "DD_Apparel_ScaleMail"
+	},
+	{
+		"abr": "shower",
+		"price": 90,
+		"category": "Hygiene",
+		"defname": "ShowerStuff"
+	},
+	{
+		"abr": "silverdragon",
+		"price": 13167,
+		"category": "Animals",
+		"defname": "Silver_Dragon"
+	},
+	{
+		"abr": "silverdragonegg(fert.)",
+		"price": 6833,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggSilverDragonFertilized"
+	},
+	{
+		"abr": "simpleshower",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "ShowerSimple"
+	},
+	{
+		"abr": "smarttoilet",
+		"price": 182,
+		"category": "Hygiene",
+		"defname": "ToiletAdvStuff"
+	},
+	{
+		"abr": "thermostat",
+		"price": 86,
+		"category": "Hygiene",
+		"defname": "Thermostat"
+	},
+	{
+		"abr": "thrumbobattleaxe",
+		"price": 1833,
+		"category": "Melee weapons",
+		"defname": "DDMeleeWeapon_ThrumboBattleAxe"
+	},
+	{
+		"abr": "toilet",
+		"price": 72,
+		"category": "Hygiene",
+		"defname": "ToiletStuff"
+	},
+	{
+		"abr": "towelrail",
+		"price": 85,
+		"category": "Hygiene",
+		"defname": "RadiatorTowelRail"
+	},
+	{
+		"abr": "truedragon",
+		"price": 13167,
+		"category": "Animals",
+		"defname": "True_Dragon"
+	},
+	{
+		"abr": "truedragonegg(fert.)",
+		"price": 11083,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggTrueDragonFertilized"
+	},
+	{
+		"abr": "truedragonleather",
+		"price": 71,
+		"category": "Leathers",
+		"defname": "True_Dragon_Leather"
+	},
+	{
+		"abr": "walk-infreezerunit",
+		"price": 153,
+		"category": "Hygiene",
+		"defname": "FreezerUnit"
+	},
+	{
+		"abr": "washingmachine",
+		"price": 433,
+		"category": "Hygiene",
+		"defname": "WashingMachine"
+	},
+	{
+		"abr": "watertub",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "WashBucket"
+	},
+	{
+		"abr": "whitedragon",
+		"price": 11000,
+		"category": "Animals",
+		"defname": "White_Dragon"
+	},
+	{
+		"abr": "whitedragonegg(fert.)",
+		"price": 4167,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggWhiteDragonFertilized"
+	},
+	{
+		"abr": "wingcape",
+		"price": 425,
+		"category": "Apparel",
+		"defname": "DD_Apparel_WingCape"
+	},
+	{
+		"abr": "yellowdragon",
+		"price": 11000,
+		"category": "Animals",
+		"defname": "Yellow_Dragon"
+	},
+	{
+		"abr": "yellowdragonegg(fert.)",
+		"price": 4167,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggYellowDragonFertilized"
+	},
+	{
+		"abr": "lizarddoggo",
+		"price": 417,
+		"category": "Animals",
+		"defname": "ERN_lizarddoggo"
 	}
 	],
-	"total": 925
+	"total": 967
 }

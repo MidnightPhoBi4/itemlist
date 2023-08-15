@@ -37,15 +37,21 @@
   },
   {
     "author": "SirRandoo",
-    "name": "ToolkitPolls",
-    "steamId": "2435838514",
-    "version": "1.1.1.7"
-  },
-  {
-    "author": "SirRandoo",
     "name": "ToolkitRaids",
     "steamId": "2091359241",
     "version": "1.0.5.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "1.0.3.2"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitPolls",
+    "steamId": "2435838514",
+    "version": "1.1.1.7"
   },
   {
     "author": "SirRandoo",
@@ -63,7 +69,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.4.1240.0"
+    "version": "1.4.1242.0"
   },
   {
     "author": "spoonshortage",
@@ -193,6 +199,12 @@
   },
   {
     "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Dubwise",
     "name": "Dubs Break Mod",
     "steamId": "1722398508",
     "version": "1.0.0"
@@ -309,7 +321,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.12.1.0"
+    "version": "1.13.0.0"
   },
   {
     "author": "Roolo and Updated by Ogliss",
@@ -382,5 +394,23 @@
     "name": "Simple Utilities: Ceiling",
     "steamId": "2571003732",
     "version": "1.4"
+  },
+  {
+    "author": "Garwel",
+    "name": "Destroy Item",
+    "steamId": "2423311270",
+    "version": "1.2.0"
+  },
+  {
+    "author": "Erin",
+    "name": "Erin's Lizard Doggo",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PunkyRoo",
+    "name": "Train All Animals",
+    "steamId": null,
+    "version": null
   }
 ]
